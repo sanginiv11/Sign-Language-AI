@@ -1,4 +1,4 @@
-# 🤟 Sign Language to Text + Emergency Message System
+# 🤟 Sign Language to Text
 
 A real-time hand gesture recognition system built with MediaPipe and OpenCV that converts hand gestures into text and speech — with an emergency alert feature.
 
