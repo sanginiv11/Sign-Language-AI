@@ -8,7 +8,8 @@ A real-time hand gesture recognition system built with MediaPipe and OpenCV that
 
 ## 📸 Demo
 
-> *(Add a screen recording or screenshot here after running the project)*
+> <img width="950" height="530" alt="image" src="https://github.com/user-attachments/assets/34ffb3b8-febd-452a-b25e-465cd678c824" />
+
 
 ---
 
