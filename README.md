@@ -62,7 +62,7 @@ A real-time hand gesture recognition system built with MediaPipe and OpenCV that
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/sign-language-ai.git
+git clone https://github.com/sanginiv11/sign-language-ai.git
 cd sign-language-ai
 ```
 
